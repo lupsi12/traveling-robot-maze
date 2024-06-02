@@ -18,5 +18,5 @@ The aim of this project is to reinforce knowledge of object-oriented programming
    ```bash
    git clone <https://github.com/lupsi12/traveling-robot-maze.git>
 
-![PROJECT IMAGE](src/img/MAZE.png)
+![PROJECT IMAGE](MAZE.png)
 
