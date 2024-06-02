@@ -11,7 +11,6 @@ The aim of this project is to reinforce knowledge of object-oriented programming
 
 - **Project Langueges:** Java
 - **IDE:** IntelliJ IDEA
-- 
 ## Setup
 
 1. Clone this repository:
